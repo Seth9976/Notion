@@ -51,7 +51,6 @@
     "react-facebook": "^8.1.4",
     "react-messenger-customer-chat": "^0.8.0",
     "react-notion-x": "6.16.0",
-    "twikoo-client": "^1.6.8",
     "use-ackee": "^3.0.0",
     "valine": "^1.5.1"
   },
